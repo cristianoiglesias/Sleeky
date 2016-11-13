@@ -1,24 +1,24 @@
 ![sleeky logo](assets/img/logo-small.png)
 
-Sleeky is a minimal web interface designed for use with YOURLS, an open source piece of software that lets you create your own URL shortener. Using this theme you can create your own Bitly or just a ULR shortener site or anything really.
+Sleeky é uma interface web mínima projetada para uso com o YOURLS, um software de código aberto que permite criar seu próprio encurtamento de URL. Usando este tema você pode criar o seu próprio Bitly ou apenas um site encurtador ULR ou qualquer coisa realmente.
 
 # [Demo](http://sleeky.flynntes.com)
 
 ![screenshot](assets/img/screenshot1.png)
 
 ##Quick Start
-1. Clone the repo.
-2. Open config.php and change the values to suit.
-3. Save and upload all the sleeky files to your server
+1. Clone o repo.
+2. Abra config.php e altere os valores conforme sua necessidade.
+3. Salve e faça o upload de todos os arquivos simples para o seu servidor
 
-##Documentation 
-Everything you need to know about Sleeky can be found in the Wiki! You can find that [here](https://github.com/Flynntes/Sleeky/wiki)
+##Documentação 
+Tudo o que você precisa saber sobre Sleeky pode ser encontrado no Wiki! Você pode achar [aqui](https://github.com/Flynntes/Sleeky/wiki)
 
-##Help
-Need a hand? I would love to help you out! Head over to my [site](http://flynntes.com/contact). Alternatively, you could open an issue on GitHub or you could [tweet me](http://twitter.com/flynntes)... your choice.
+##Ajuda
+Precisa de uma mão? Eu adoraria ajudá-lo! Dirija sobre a meu [site](http://flynntes.com/contact). Alternativamente, você poderia abrir um issue (problema) no GitHub ou você poderia [tweetar-me](http://twitter.com/flynntes)... você escolhe.
 
-##Versioning
-Sleeky follows the principles of [Semantic Versioning](http://semver.org/).
+##Versão
+Sleeky segue os princípios de [Versionização semântica](http://semver.org/).
 
-#License
-This code is released under the [MIT License](https://github.com/Flynntes/Sleeky/blob/master/LICENSE.md)
+#Licença
+Este código é lançado sob a licença [MIT](https://github.com/Flynntes/Sleeky/blob/master/LICENSE.md)
