@@ -1,5 +1,5 @@
 <?php 
-// CONFIG - These control the look and details on your site. Consult documentation for more details.
+// CONFIG - Estes controlam o olhar e os detalhes em seu local. Consulte a documentação para obter mais detalhes.
 
 
 // GENERAL
