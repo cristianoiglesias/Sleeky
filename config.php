@@ -5,16 +5,16 @@
 // GENERAL
 
 // Site URL
-define('siteURL', 'http://mnto.co/de//');
+define('siteURL', 'http://mnto.co/de/');
 
 // Page title for your site
-define('title', 'Minito do Codigo > Shortener'); 
+define('title', 'Minuto do Codigo > Shortener'); 
 
 // The short title of your site, used in the footer and in some sub pages
-define('shortTitle', 'Mnto.co/de');
+define('shortTitle', 'mnto.co/de');
 
 // A description of your site, shown on the homepage.
-define('description', 'Compartilhe mais facilmente aquele codigo maroto que voc encontrou na net com seu amigo!'); 
+define('description', 'Compartilhe mais facilmente aquele codigo maroto que você encontrou na net!'); 
 
 // The favicon for your site
 define('favicon', '/assets/img/favicon.ico');
